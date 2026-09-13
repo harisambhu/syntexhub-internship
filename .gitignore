@@ -1,4 +1,6 @@
+.venv/
 __pycache__/
 *.py[cod]
-.venv/
-outputs/
+artifacts/*.joblib
+artifacts/*.json
+.pytest_cache/
