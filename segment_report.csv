@@ -1,0 +1,5 @@
+Cluster,Segment_Label,Customers,Avg_Age,Avg_Income,Avg_Spending,Marketing_Action
+3,High-value loyal customers,54,52.39,86.67,87.04,"Offer premium loyalty perks, exclusive products, and early access promotions."
+1,Moderate value customers,46,25.35,100.48,61.09,"Use targeted email campaigns, cross-sell bundles, and loyalty reminders."
+2,Potential churn risk,47,55.38,119.02,34.45,Send re-engagement offers and personalized recommendations to increase spend.
+0,Moderate value customers,53,43.08,39.23,27.74,"Use targeted email campaigns, cross-sell bundles, and loyalty reminders."
