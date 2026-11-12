@@ -1,7 +1,7 @@
 # ==========================================
 # SALARY PREDICTION USING LINEAR REGRESSION
 # ==========================================
-from pathlib import Path
+from pathlib import Path 
 
 import matplotlib
 matplotlib.use("Agg")
