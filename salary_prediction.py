@@ -17,7 +17,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 
 def _to_dense(x):
     """Convert sparse matrix to dense array when needed."""
-    return x.toarray() if hasattr(x, "toarray") else x
+    return x.toarray() if hasattr(x, "toarray") else x 
 
 
 # ==========================================
