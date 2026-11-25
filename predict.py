@@ -27,5 +27,5 @@ def main() -> None:
     print(json.dumps(predictions, indent=2))
 
 
-if __name__ == "__main__":
+if __name__ == "__main__": 
     main()
